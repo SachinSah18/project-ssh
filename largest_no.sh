@@ -3,7 +3,7 @@
 echo "enter the first no "
 read num1
 
-echo "enter the third no"
+echo "enter the second no"
 read num2
 
 echo "enter the third no"
